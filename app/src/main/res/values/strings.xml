@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Autores</string>
+    <string name="instructions">Ingrese el nombre del libro para conocer sus datos.</string>
+    <string name="btn_text">Buscar libro</string>
+    <string name="inputHint">Título del libro</string>
+    <string name="bookAuthor">Autor</string>
+    <string name="title">Titulo</string>
+    <string name="publisher">Editorial</string>
+    <string name="publishedDate">Fecha de Publicación</string>
+    <string name="category">Categoria</string>
+    <string name="description">Descripcion</string>
+    <string name="amount">Precio</string>
+    <string name="averageRating">Puntuación</string>
+</resources>
